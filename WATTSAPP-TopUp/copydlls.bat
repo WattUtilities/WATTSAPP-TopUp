@@ -1,0 +1,5 @@
+copy "C:\Users\Rob\Documents\Visual Studio 2015\Projects\Utilities\Debug\Utilities.dll" "C:\Users\Rob\Documents\Visual Studio 2015\Projects\WATTSAPP-TopUp2\Debug"
+copy "C:\Users\Rob\Documents\Visual Studio 2015\Projects\Formatter\Debug\Formatter.dll" "C:\Users\Rob\Documents\Visual Studio 2015\Projects\WATTSAPP-TopUp2\Debug"
+copy "C:\Users\Rob\Documents\Visual Studio 2015\Projects\DbConnection\Debug\DbConnection.dll" "C:\Users\Rob\Documents\Visual Studio 2015\Projects\WATTSAPP-TopUp2\Debug"
+copy "C:\Users\Rob\Documents\Visual Studio 2015\Projects\DbConnection\Debug\libmysql.dll" "C:\Users\Rob\Documents\Visual Studio 2015\Projects\WATTSAPP-TopUp2\Debug"
+copy "C:\Users\Rob\Documents\Visual Studio 2015\Projects\DbConnection\Debug\mysqlcppconn.dll" "C:\Users\Rob\Documents\Visual Studio 2015\Projects\WATTSAPP-TopUp2\Debug"
